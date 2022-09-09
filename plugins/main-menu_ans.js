@@ -17,15 +17,15 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
            hydratedFooterText: '[❗] Silahkan pilih Command Dibawah ini',
            hydratedButtons: [{
              urlButton: {
-               displayText: '🔮GroupBot🔮',
+               displayText: 'Group Official',
                url: gc
              }
 
            },
                 {
                urlButton: {
-               displayText: '🐻Instagram creator🐻',
-               url: web
+               displayText: 'Github Own',
+               url: github
              }
 
            },
