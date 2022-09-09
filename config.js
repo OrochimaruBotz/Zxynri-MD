@@ -15,7 +15,7 @@ global.numberowner = '6288804947282' //ganti pakai nomor mu
 global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
 global.github = 'https://github.com/OrochimaruBotz' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
-global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
+global.sc = 'https://github.com/OrochimaruBotz/Zxynri-MD' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
@@ -47,7 +47,7 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'GojoBot'
 global.watermark = wm
 global.wm2 = 'ᯤ creator by Yamato'
-global.wm3 = 'ᯤ Dani Offcial'
+global.wm3 = 'ᯤ Yamato Offcial'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg'
@@ -58,7 +58,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'GojoBot'
-global.author = '©GojoBot'
+global.author = 'Powered By Yamato'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
