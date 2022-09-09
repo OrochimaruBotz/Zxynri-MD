@@ -2,9 +2,9 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-*Hallo user GojoBot,* 
+*Hallo Kak ${name},* 
 
-*Saya adalah Bot WhatsApp Multi Device yang di buat oleh Creator kami.*
+*Saya GojoBot adalah Bot WhatsApp Multi Device yang di buat oleh Yamato.*
 Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendownload sesuatu seperti:
 *Vidio tiktok , Vidio yt , membuat stiker DLL.*
 	`.trim()
@@ -24,7 +24,7 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
            },
                 {
                urlButton: {
-               displayText: 'Github Own',
+               displayText: 'Github Owner',
                url: github
              }
 
