@@ -56,7 +56,7 @@ const defaultMenu = {
 ⫹⫺ KrizynOfc
 ⫹⫺ RielgansOfc
 ⫹⫺ Zifabotz_offc1
-⫹⫺ DaniBotz-Ofc
+⫹⫺ Yamato
 ╰─────────────⬣
 `,
 }
